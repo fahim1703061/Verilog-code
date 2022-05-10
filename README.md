@@ -27,3 +27,4 @@ gtkwave test.vcd &
 - Online Verilog Compiler - https://www.jdoodle.com/execute-verilog-online/
 - compiler - http://bleyer.org/icarus/
 - installation process- https://www.youtube.com/watch?v=hg9splN_83Y
+- some example https://technobyte.org/verilog-code-for-demultiplexer-using-behavioral-modeling/
